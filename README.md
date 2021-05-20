@@ -12,6 +12,8 @@ And load it with Quartus
 ## Requirement :
 <https://github.com/enjoy-digital/litex>
 
+GTKWave
+
 I also recommand : 
 <https://atom.io/>
 
