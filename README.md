@@ -8,10 +8,11 @@ chmod a+x filenames.py
 ./filenames.py
 ```
 And load it with Quartus 
+
 ## Requirement :
 <https://github.com/enjoy-digital/litex>
 
-I also recommand 
+I also recommand : 
 <https://atom.io/>
 
 ## Sources 
